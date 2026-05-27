@@ -1,0 +1,1 @@
+//export { passwordCheck } from './checkpwd.js';//
